@@ -1,10 +1,38 @@
+body{
+    background-color: black;
+}
 .container{
-    width: 1140px;
-    margin: auto;
+    width: 70%;
+    background-color: white;
+   
 }
-header {
+.div1 {
     text-align: center;
+    border: 5px solid rgb(165, 10, 10);
 }
+
+.div11 {
+    border: 3px solid rgb(126, 55, 241);
+    height: 700px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.div111 {
+    border: 3px solid rgb(5,148,79);
+    height: 40px;
+    margin-top: 20px;
+}
+.div112 {
+    border: 3px solid rgb(19, 205, 217);
+    height: 400px;
+    width: 600px;
+    margin-top: 100px;
+}
+.div2 {
+
+}
+
+
 .main_content {
     width: 648px;
     margin: auto;
