@@ -29,7 +29,9 @@ body{
     margin-top: 100px;
 }
 .div2 {
-
+    width: 648px;
+    margin: auto;
+    border: 3px solid rgb(128, 62, 0);
 }
 
 
